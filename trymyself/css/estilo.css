@@ -1,0 +1,42 @@
+*{
+    /* reset */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+html, body{
+    height: 100%;
+}
+
+
+.viewHome{
+    height: inherit;
+    background-color: chocolate;
+}
+
+
+
+.viewMain{
+    height: inherit;
+    background-color: crimson;
+}
+
+
+.view{
+    padding-top: 70px;
+    height: inherit;
+}
+
+#page01{
+    padding-left: 20px;
+}
+
+#page02{
+    padding-left: 20px;
+}
+
+.input{
+    width: 250px;
+}
